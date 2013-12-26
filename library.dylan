@@ -116,8 +116,6 @@ define module binary-data
     parent, parent-setter,
     packet, packet-setter,
     cache,
-    source-address, source-address-setter,
-    destination-address, destination-address-setter,
     payload-type,
     container-frame-size,
     layer-magic,
